@@ -22,7 +22,7 @@ $grey: #9B9B9B;
 }
 
 html { font-size: 62.5%; }
-body { color: white; @include paragraph; font-size: 16px; font-size: 1.6rem; -webkit-backface-visibility: hidden; }
+body { background-image: linear-gradient(-135deg, #26333D 0%, #131B21 100%); color: white; @include paragraph; font-size: 16px; font-size: 1.6rem; -webkit-backface-visibility: hidden; }
 
 // Type
 h1, h2, h3, h4 { @include display; margin: 0; }
@@ -33,48 +33,41 @@ h3, h3 a { @include font-size(28);line-height: 32px; font-weight: 100; text-deco
 
 p { line-height: 1.6em; margin: 8px 0 24px; font-weight: 200; }
 
-a { text-decoration: none; font-weight: 300;
+a { color: white; text-decoration: none; font-weight: 300;
 	&:hover { }
 	&:focus { outline: 0; }
 }
 
 input { outline: 0; }
 
-.theme-night {
-	background-image: linear-gradient(-135deg, #26333D 0%, #131B21 100%);
-	p { color: white; }
-	h1 {}
-	h2,h3 {}
-	a {
-		color: white;
-		&:hover {
-
+.tile-project {
+	width: 324px;
+	background: #222E37;
+	box-shadow: 0 0 7px 6px rgba(0,0,0,0.12);
+	border-radius: 8px;
+	@include bp(s) {
+		width: 280px;
+	}
+	.hero {
+		width: 100%;
+		height: 150px;
+		background-size: cover;
+		border-radius: 8px 8px 0 0;
+		@include bp(s) {
+			height: 120px;
 		}
 	}
-	.tile-project {
-		width: 324px;
-		background: #222E37;
-		box-shadow: 0 0 7px 6px rgba(0,0,0,0.12);
-		border-radius: 8px;
-		.hero {
-			width: 100%;
-			height: 150px;
-			background-size: cover;
-			border-radius: 8px 8px 0 0;
-		}
-		.meta {
-			margin-top: -40px;
-			padding: 24px;
-			h3 {
-				display: inline-block;
-				background: white;
-				color: $dc;
-				padding: 4px;
-				box-shadow: 0 0 4px 3px rgba(0,0,0,0.12);
-			}
+	.meta {
+		margin-top: -40px;
+		padding: 24px;
+		h3 {
+			display: inline-block;
+			background: white;
+			color: $dc;
+			padding: 4px;
+			box-shadow: 0 0 4px 3px rgba(0,0,0,0.12);
 		}
 	}
-
 }
 .theme-day {
 	background-image: linear-gradient(-135deg, #F1F9FF 0%, #D6E7F4 100%);
@@ -90,7 +83,7 @@ input { outline: 0; }
 	.tile-project {
 		width: 324px;
 		background: white;
-		box-shadow: 0 0 7px 6px rgba(0,0,0,0.12);
+		box-shadow: 0 0 7px 6px rgba(0,0,0,0.04);
 		border-radius: 8px;
 		.hero {
 			width: 100%;
@@ -184,16 +177,7 @@ header.jkr-header {
 		}
 	}
 	.toggle-siteColor {
-		padding: 40px 24px;
-		label {
-			cursor: pointer;
-			float:left;
-		}
-		span {
-			@include font-size(10);
-			color: $lc;
-			padding: 8px;
-		}
+		padding: 40px 24px 0 0;
 	}
 }
 
