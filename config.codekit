@@ -136,6 +136,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/tile_community.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80038,
+		"inputAbbreviatedPath": "\/images\/tile_community.png",
+		"outputAbbreviatedPath": "\/images\/tile_community.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/tile_concierge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77097,
+		"inputAbbreviatedPath": "\/images\/tile_concierge.png",
+		"outputAbbreviatedPath": "\/images\/tile_concierge.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/tile_estimating.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51521,
+		"inputAbbreviatedPath": "\/images\/tile_estimating.png",
+		"outputAbbreviatedPath": "\/images\/tile_estimating.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/tile_loyalty.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 414657,
+		"inputAbbreviatedPath": "\/images\/tile_loyalty.png",
+		"outputAbbreviatedPath": "\/images\/tile_loyalty.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/z_cityWeb.png": {
 		"fileType": 32768,
 		"ignore": 0,
