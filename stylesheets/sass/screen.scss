@@ -157,6 +157,9 @@ header.jkr-header {
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
+	@include bp(s) {
+		position: relative;
+	}
 	ul {
 		margin: 24px;
 		li {
@@ -201,6 +204,9 @@ header.jkr-header {
 
 .main {
 	padding: 131px 0 60px 0;
+	@include bp(s) {
+		padding: 31px 0 60px 0;
+	}
 }
 
 .content-scroll {
