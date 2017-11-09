@@ -8,26 +8,25 @@ $dc: #010A11;
 
 $grey: #9B9B9B;
 
-// SASS
-@import 'jkr/jkr';
-
 //FONTS
 @mixin display {
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 200;
+	font-family: 'Georgia', serif;
 }
 @mixin paragraph {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'proxima_nova_rgregular', sans-serif;
 	font-weight: 300;
 }
+
+// SASS
+@import 'jkr/jkr';
 
 html { font-size: 62.5%; }
 body { background-image: linear-gradient(-135deg, #26333D 0%, #131B21 100%); color: white; @include paragraph; font-size: 16px; font-size: 1.6rem; -webkit-backface-visibility: hidden; }
 
 // Type
-h1, h2, h3, h4 { @include display; margin: 0; }
+h2, h3, h4 { @include display; margin: 0; }
 h2, h3 { font-weight: 400; }
-h1, h1 a { font-weight: 100; @include font-size(44); text-decoration: none; }
+h1, h1 a { @include paragraph; font-weight: 100; @include font-size(44); text-decoration: none; }
 h2, h2 a { line-height: 35px; font-weight: 100; @include font-size(32); text-decoration: none; }
 h3, h3 a { @include font-size(28);line-height: 32px; font-weight: 100; text-decoration: none; }
 

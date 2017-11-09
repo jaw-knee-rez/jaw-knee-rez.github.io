@@ -94,6 +94,7 @@ body,
 	padding: 0;
 	list-style: none;
 	li a {
+		@include paragraph;
 		display: block;
 		padding: 1em 1em 1em 1.2em;
 		text-align: center;
