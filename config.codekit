@@ -47,48 +47,48 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/_tile_community.kit": {
+	"\/app\/tiles\/_tile_community.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/_tile_community.kit",
-		"outputAbbreviatedPath": "\/app\/_tile_community.html",
+		"inputAbbreviatedPath": "\/app\/tiles\/_tile_community.kit",
+		"outputAbbreviatedPath": "\/app\/tiles\/_tile_community.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/_tile_concierge.kit": {
+	"\/app\/tiles\/_tile_concierge.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/_tile_concierge.kit",
-		"outputAbbreviatedPath": "\/app\/_tile_concierge.html",
+		"inputAbbreviatedPath": "\/app\/tiles\/_tile_concierge.kit",
+		"outputAbbreviatedPath": "\/app\/tiles\/_tile_concierge.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/_tile_estimating.kit": {
+	"\/app\/tiles\/_tile_estimating.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/_tile_estimating.kit",
-		"outputAbbreviatedPath": "\/app\/_tile_estimating.html",
+		"inputAbbreviatedPath": "\/app\/tiles\/_tile_estimating.kit",
+		"outputAbbreviatedPath": "\/app\/tiles\/_tile_estimating.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/_tile_loyalty.kit": {
+	"\/app\/tiles\/_tile_loyalty.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/_tile_loyalty.kit",
-		"outputAbbreviatedPath": "\/app\/_tile_loyalty.html",
+		"inputAbbreviatedPath": "\/app\/tiles\/_tile_loyalty.kit",
+		"outputAbbreviatedPath": "\/app\/tiles\/_tile_loyalty.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/_tile_project.kit": {
+	"\/app\/tiles\/_tile_project.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/_tile_project.kit",
-		"outputAbbreviatedPath": "\/app\/_tile_project.html",
+		"inputAbbreviatedPath": "\/app\/tiles\/_tile_project.kit",
+		"outputAbbreviatedPath": "\/app\/tiles\/_tile_project.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -658,6 +658,24 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/stylesheets\/screen.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/community.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/community.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/community.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/community.kit",
+		"outputAbbreviatedPath": "\/work\/community.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		}
