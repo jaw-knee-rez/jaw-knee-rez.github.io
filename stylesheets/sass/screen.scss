@@ -25,7 +25,7 @@ body { background-image: linear-gradient(-135deg, #26333D 0%, #131B21 100%); col
 
 // Type
 h2, h3, h4 { @include display; margin: 0; }
-h2, h3 { font-weight: 400; }
+h2, h3 { }
 h1, h1 a { @include paragraph; font-weight: 100; @include font-size(44); text-decoration: none; }
 h2, h2 a { line-height: 35px; font-weight: 100; @include font-size(32); text-decoration: none; }
 h3, h3 a { @include font-size(28);line-height: 32px; font-weight: 100; text-decoration: none; }
@@ -133,7 +133,7 @@ svg { fill: currentColor; }
 		.ui-btn-hidden { display: none; }
 	}
 }
-
+// BUTTONS
 .btn  { @include btn($c); outline: 0; }
 .view {
 	color: white;
@@ -142,7 +142,25 @@ svg { fill: currentColor; }
 		margin: 0 0 0 8px;
 	}
 }
+// LAYOUT
+.content {
+	padding: 60px 0;
+}
+.w {
+	width: 65%;
+	margin-left: 160px;
+	@include bp(s) {
+		width: 100%;
+		padding: 40px;
+		margin: 0;
+	}
+}
+.container {
+	display: flex;
+	.half {  }
+}
 
+// HEADER
 header.jkr-header {
 	position: fixed;
 	width: 100%;
@@ -208,18 +226,6 @@ header.jkr-header {
 				margin-left: 40px;
 			}
 		}
-	}
-}
-.content {
-	padding: 60px 0;
-}
-.w {
-	width: 65%;
-	margin-left: 160px;
-	@include bp(s) {
-		width: 100%;
-		padding: 40px;
-		margin: 0;
 	}
 }
 .work {
