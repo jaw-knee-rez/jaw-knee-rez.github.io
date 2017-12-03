@@ -1,0 +1,82 @@
+@import 'reset';
+@import 'fonts';
+@import 'bourbon/bourbon';
+@import 'neat/neat';
+@import 'bcg';
+
+//COLORS
+$green: #5dbb46;
+$lgreen: #add275;
+$orange: #f78f1e;
+$brown: #6f6559;
+$blue: #4baaff;
+
+//FONTS
+@mixin display {
+	font-family: "ff-ernestine-web-pro",sans-serif;
+}
+@mixin paragraph {
+	font-family: "proxima-nova",sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 62.5%; }
+body { background: #f7f7f7; @include paragraph; font-size: 14px; font-size: 1.4rem; color: $brown; }
+.v7-design { background: #272727; }
+
+h1, h2, h3, h4 { @include display; margin: 0; }
+h2, h3 { font-weight: 400; }
+h1 { font-weight: 500; @include font-size(38); color: $blue;  }
+h2 { color: $green; @include font-size(20); }
+h3 { color: $orange; @include font-size(18); }
+
+p { color: #1d1d1d; line-height: 1.6em; margin: 5px 0; }
+
+.clearfix { @include clearfix; }
+
+.i { position: relative; display: inline-block; width: 20px; height: 20px; background: url('../images/icons.png') no-repeat; vertical-align: middle; z-index: 9999; }
+	.help { background-position: 0 0; }
+
+.overlay { bottom: 0; display: none; left: 0; position: absolute; right: 0; top: 0; z-index: 99999; 
+	.overlay-bg { background-image: url('../images/overlay-bg.png'); display: none; left: 0; position: absolute; top: 0; z-index: 9000; }
+	.overlay-content { background: #fff; left: 50%; margin-left: -30%; verflow: hidden; padding: 15px; position: fixed; top: 10%; width: 60%; z-index: 9999; box-shadow: 0 0 8px rgba(0,0,0,.4); border-radius: 4px; -webkit-border-radius: 4px; opacity: 0; 
+		.overlay-hdr { overflow: hidden; border-bottom: 1px solid #ccc; padding: 0 0 10px 0; margin: 10px 0; 
+			h1 { float: left; }
+			.destroy { background: url('../images/destroy.png') no-repeat center bottom; display: block; float: right; height: 20px; width: 20px; text-indent: -99999px; cursor: pointer; 
+				&:hover { background-position: center top; }
+			}
+		}
+		.overlay-body {}
+	}
+}
+
+img { width:100%; }
+
+.w { max-width: 1400px; min-width: 320px; margin: 0 auto; 
+	img { width: 100%; box-shadow: 0 0 4px 4px rgba(0,0,0,.9); }
+	h2 { display: block; font-size: 1.3em; text-transform: uppercase; color: #fff; margin: 60px 0 20px; padding: 10px 0; border-top: 1px dotted #bbb; }
+}
+
+header { width: 100%; height: 224px; background: url('../images/zoomin-hdr-v7.png') no-repeat center top; }
+
+.hdr { width: 100%; background: white; padding: 20px; }
+
+section { width: 100%; background: white; position: relative; @include clearfix;
+
+	.sb1 { position: absolute; width: 215px; left: 0; background: #323230; height:400px; }
+	.mc { margin-left: 235px;
+		.item { height: 200px; float: left; margin: 0 20px 20px 0; border-radius: 4px; box-shadow: 0 0 2px 2px rgba(0,0,0,.4); 
+
+			width: 23.3%;	
+			@include media($d4) { width: 31%; }		
+			@include media($d3) { width: 30%; }
+			@include media($d2) { width: 45%; }
+			@include media($d1) { width: 100%; }
+
+		}
+	
+	}
+	.sb2 { position: absolute; width: 288px; right: 0; top: 0; }
+
+}

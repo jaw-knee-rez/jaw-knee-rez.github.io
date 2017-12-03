@@ -1,0 +1,125 @@
+@import 'reset';
+@import 'bourbon/bourbon';
+@import 'neat/neat';
+
+//COLORS
+$green: #5dbb46;
+$orange: #f78f1e;
+$brown: #6f6559;
+
+//FONTS
+@mixin display {
+	font-family: "ff-ernestine-web-pro",sans-serif;
+}
+@mixin paragraph {
+	font-family: "proxima-nova",sans-serif;
+}
+
+html { font-size: 62.5%; }
+body { background: #f7f7f7 url('../images/zoomin-splash-bg.jpg') no-repeat center top; @include paragraph; font-size: 14px; font-size: 1.4rem; color: $brown; }
+
+h1, h2, h3, h4 { @include display; margin: 0; }
+h2, h3 { font-weight: 400; }
+h1 { font-weight: 100; @include font-size(24); color: $brown; }
+h2 { color: $green; @include font-size(20); }
+h3 { color: $orange; @include font-size(18); }
+
+p { color: #1d1d1d; line-height: 1.6em; margin: 5px 0; }
+
+.clearfix { @include clearfix; }
+
+.i { position: relative; display: inline-block; width: 20px; height: 20px; background: url('../images/icons.png') no-repeat; vertical-align: middle; z-index: 9999; }
+	.help { background-position: 0 0; }
+
+.overlay { bottom: 0; display: none; left: 0; position: absolute; right: 0; top: 0; z-index: 99999; 
+	.overlay-bg { background-image: url('../images/overlay-bg.png'); display: none; left: 0; position: absolute; top: 0; z-index: 9000; }
+	.overlay-content { background: #fff; left: 50%; margin-left: -30%; verflow: hidden; padding: 15px; position: fixed; top: 10%; width: 60%; z-index: 9999; box-shadow: 0 0 8px rgba(0,0,0,.4); border-radius: 4px; -webkit-border-radius: 4px; opacity: 0; 
+		.overlay-hdr { overflow: hidden; border-bottom: 1px solid #ccc; padding: 0 0 10px 0; margin: 10px 0; 
+			h1 { float: left; }
+			.destroy { background: url('../images/destroy.png') no-repeat center bottom; display: block; float: right; height: 20px; width: 20px; text-indent: -99999px; cursor: pointer; 
+				&:hover { background-position: center top; }
+			}
+		}
+		.overlay-body {}
+	}
+}
+
+section { @include outer-container; margin-top: 100px;
+	
+	header { text-align: center;
+			img { margin: 10px 0 30px; }
+		@include media($tablet) {
+			padding: 20px;
+		}
+	} 
+
+	.signup-c { @include span-columns(8); @include shift(2);
+
+		// container tablet
+		@include media($tablet) { @include span-columns(10); @include shift(1); }
+
+		article { width: 55%; min-height: 320px; padding: 1em; background: white; float:left; box-shadow: 0 0 4px rgba(0,0,0,.4);
+				ul { margin: 20px 0; padding: 0;
+					li { list-style: none; display: inline; float:left; width: 33%; text-align: center; }
+				}
+			@include media($tablet) {
+				width: 100%; float: none; padding: 1em 1em 3em;
+			}
+		}
+
+		aside { width: 45%; min-height: 320px; padding: 1.4em; float:left; background: url('../images/floral-dark-bg.jpg') repeat; box-shadow: 0 0 8px 4px rgba(0,0,0,.6) inset; 
+				.signup-hdr {
+					h3 { float: left; }
+					.social { float: left; margin: 0 0 10px;
+						li { display: inline; float: left; margin: 0 10px 0 0;
+							a { display: block; width: 23px; height: 24px; background: url('../images/social-sprite.png') no-repeat; text-indent: -9999px;
+								&.twit { background-position: 0 bottom; 
+									&:hover { background-position: 0 top; margin-top: -2px; }
+								}
+								&.fb { background-position: -23px bottom; 
+									&:hover { background-position: -23px top; margin-top: -2px; }
+								}
+								&.instagram { background-position: -46px bottom; 
+									&:hover { background-position: -46px top; margin-top: -2px; }
+								}
+							}
+						}
+					}
+				}
+				.signup { clear: left; margin: 50px 0;
+					.z-form {  
+						.field-group { margin: 0 0 15px;
+							label { display: block; color: $green; margin: 10px 0 4px; text-transform: uppercase; font-weight: 700; @include font-size(12); }
+								#{$all-text-inputs} { width: 100%;
+								  border: 1px solid black; border-radius: 4px; padding: 4%; 
+								}
+
+								#{$all-text-inputs-hover} { // Target the :hover pseudo-class
+								  background: #ebebdb;
+								}
+
+								#{$all-text-inputs-focus} { // Target the :focus pseudo-class
+								  background: white; outline: 0; border-color: $orange;
+								}
+						}
+						.actions { margin: 20px 5px;
+							span { float: left; @include font-size(10); 
+								a { color: #bbafa4; text-decoration: none; line-height: 20px; &:hover { color: white; } }
+							}
+							input { @include button($green); @include font-size(14); text-transform: uppercase; font-weight: 100; float: right; }
+						}
+					}
+				}
+
+			@include media($tablet) {
+				width: 100%; float: none;
+			}
+		}
+
+		footer { clear: both; width: 100%; text-align: center; margin: 20px 0;
+			.copyright { @include font-size(8); color: #6a6660; }
+		}
+
+	}
+
+}

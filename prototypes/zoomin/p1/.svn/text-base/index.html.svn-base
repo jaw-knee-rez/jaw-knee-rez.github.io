@@ -1,0 +1,38 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Zoomin UI Scratch v1.0</title>
+  
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+  
+  <meta name="description" content="">
+
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="stylesheets/screen.css" type="text/css" />
+
+  <script src="s/libs/modernizr-2.5.3.min.js"></script>
+</head>
+<body class="v7-design">
+
+  <div class="w" role="main">
+  
+    <h2>v7 - Welcome</h2>
+  	<img src="images/zoomin-v7-welcome.jpg" alt="" />
+    <h2>v7 - Shop by Aisle</h2>
+  	<img src="images/zoomin-v7-shopByAisle.jpg" alt="" />
+    <h2>v7 - My Lists</h2>
+  	<img src="images/zoomin-v7-myList.jpg" alt="" />
+    <h2>v7 - Manage My Lists</h2>
+    <img src="images/zoomin-v7-myList-manage.jpg" alt="" />
+    <h2>v7 - Add Items to My Lists</h2>
+    <img src="images/zoomin-v7-myList-addItems.jpg" alt="" />
+
+  </div>
+
+</body>
+</html>

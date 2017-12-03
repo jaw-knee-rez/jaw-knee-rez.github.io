@@ -38,4 +38,8 @@ $(function(){
 
    });
 
+   $('#showXD').on('click', function () {
+     $('.xd').slideToggle();
+   });
+
 });
