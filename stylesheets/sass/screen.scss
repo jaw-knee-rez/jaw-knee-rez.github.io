@@ -63,7 +63,7 @@ input { outline: 0; }
 			display: inline-block;
 			background: white;
 			color: $dc;
-			padding: 4px;
+			padding: 4px 8px;
 			box-shadow: 0 0 4px 3px rgba(0,0,0,0.12);
 		}
 	}
@@ -96,7 +96,7 @@ input { outline: 0; }
 				display: inline-block;
 				background: $dc;
 				color: white;
-				padding: 4px;
+				padding: 4px 8px;
 				box-shadow: 0 0 4px 3px rgba(0,0,0,0.12);
 			}
 		}
