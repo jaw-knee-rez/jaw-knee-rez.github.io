@@ -864,6 +864,7 @@ svg {
   padding: 10px 15px;
   border: 1px solid white;
   border-radius: 60px;
+  margin: 4px 0;
   outline: 0; }
   .btn:hover {
     background: transparent;
@@ -876,6 +877,12 @@ svg {
   .view img {
     width: 15px;
     margin: 0 0 0 8px; }
+
+@media (max-width: 600px) {
+  .next-work {
+    float: none;
+    display: block;
+    padding: 24px 0; } }
 
 .content {
   padding: 60px 0; }
@@ -903,6 +910,10 @@ svg {
     width: 75%; }
   .container .one-four {
     width: 25%; }
+  @media (max-width: 600px) {
+    .container .half, .container .three-four, .container .one-four {
+      width: 100%;
+      padding: 0; } }
 
 header.jkr-header {
   position: fixed;

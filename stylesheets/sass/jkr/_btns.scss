@@ -6,6 +6,7 @@
 	padding: 10px 15px;
 	border: 1px solid white;
 	border-radius:60px;
+  margin: 4px 0;
   &:hover {
     background:darken($bg,8%);
     transition: all 0.3s ease;

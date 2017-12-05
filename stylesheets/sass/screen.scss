@@ -126,6 +126,13 @@ svg { fill: currentColor; }
 		margin: 0 0 0 8px;
 	}
 }
+.next-work {
+	@include bp(s) {
+		float: none;
+		display: block;
+		padding: 24px 0;
+	}
+}
 // LAYOUT
 .content {
 	padding: 60px 0;
@@ -156,6 +163,12 @@ svg { fill: currentColor; }
 	}
 	.one-four {
 		width: 25%
+	}
+	@include bp(s) {
+		.half, .three-four, .one-four {
+			width: 100%;
+			padding: 0;
+		}
 	}
 }
 
