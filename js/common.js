@@ -25,7 +25,20 @@ function checkCookie() {
 }
 checkCookie()
 
+// DOC READY
 $(function(){
+
+  // var iScrollPos = 0;
+  //
+  // $(window).scroll(function () {
+  //     var iCurScrollPos = $(this).scrollTop();
+  //     if (iCurScrollPos > iScrollPos) {
+  //         $('.jkr-header').fadeOut(500);
+  //     } else {
+  //         $('.jkr-header').fadeIn(500);
+  //     }
+  //     iScrollPos = iCurScrollPos;
+  // });
 
   $('#cb1').on('click', function () {
     if ( $('body').hasClass('theme-day') ) {

@@ -156,6 +156,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/concierge\/c-contextChange.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 481800,
+		"inputAbbreviatedPath": "\/images\/concierge\/c-contextChange.png",
+		"outputAbbreviatedPath": "\/images\/concierge\/c-contextChange.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/concierge\/c-onboard.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 854813,
+		"inputAbbreviatedPath": "\/images\/concierge\/c-onboard.png",
+		"outputAbbreviatedPath": "\/images\/concierge\/c-onboard.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/concierge\/wholelottaconcierge-sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.5923e+06,
+		"inputAbbreviatedPath": "\/images\/concierge\/wholelottaconcierge-sm.jpg",
+		"outputAbbreviatedPath": "\/images\/concierge\/wholelottaconcierge-sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/favicon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -7520,11 +7553,11 @@
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/stylesheets\/sass\/screen.scss",
-		"outputAbbreviatedPath": "\/stylesheets\/css\/screen.css",
+		"outputAbbreviatedPath": "\/stylesheets\/screen.css",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
@@ -7532,10 +7565,28 @@
 		},
 	"\/stylesheets\/screen.css": {
 		"fileType": 16,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/stylesheets\/screen.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/fan-concierge\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/fan-concierge\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/fan-concierge\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/fan-concierge\/index.kit",
+		"outputAbbreviatedPath": "\/work\/fan-concierge\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
