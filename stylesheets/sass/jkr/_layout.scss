@@ -59,7 +59,7 @@ body,
 	left: 0;
 	z-index: 100;
 	visibility: hidden;
-	width: 300px;
+	width: 220px;
 	height: 100%;
 	background: $dc;
 	-webkit-transition: all 0.5s;
@@ -89,18 +89,32 @@ body,
 
 /* content style */
 
-.jkr-menu ul {
-	margin: 0;
-	padding: 0;
-	list-style: none;
-	li a {
-		@include paragraph;
-		display: block;
-		padding: 1em 1em 1em 1.2em;
-		text-align: center;
-		outline: none;
-		color: $lc;
-		letter-spacing: 1px;
+.jkr-menu {
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		li a {
+			@include paragraph;
+			display: block;
+			padding: 10px 24px;
+			// text-align: center;
+			outline: none;
+			color: $lc;
+			letter-spacing: 1px;
+		}
+	}
+	.main-menu {
+			li a {
+				color: #f4f4f4;
+		}
+	}
+	.work-menu {
+		padding: 8px 0 0;
+		margin: 16px 0 0;
+		li a {
+			@include font-size(12);
+		}
 	}
 }
 

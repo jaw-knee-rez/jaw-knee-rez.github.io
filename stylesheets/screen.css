@@ -532,7 +532,7 @@ body,
   left: 0;
   z-index: 100;
   visibility: hidden;
-  width: 300px;
+  width: 220px;
   height: 100%;
   background: #010A11;
   -webkit-transition: all 0.5s;
@@ -566,11 +566,18 @@ body,
     font-family: 'proxima_nova_rgregular', sans-serif;
     font-weight: 300;
     display: block;
-    padding: 1em 1em 1em 1.2em;
-    text-align: center;
+    padding: 10px 24px;
     outline: none;
     color: #4A80A7;
     letter-spacing: 1px; }
+.jkr-menu .main-menu li a {
+  color: #f4f4f4; }
+.jkr-menu .work-menu {
+  padding: 8px 0 0;
+  margin: 16px 0 0; }
+  .jkr-menu .work-menu li a {
+    font-size: 12px;
+    font-size: 1.2rem; }
 
 .jkr-effect-9.jkr-container {
   -webkit-perspective: 1500px;
@@ -927,7 +934,7 @@ header.jkr-header {
 
 .sideNav-logo {
   width: 60px;
-  margin: 24px auto; }
+  margin: 24px; }
 
 .main {
   padding: 131px 0 60px 0; }
