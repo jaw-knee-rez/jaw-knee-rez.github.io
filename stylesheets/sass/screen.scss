@@ -109,7 +109,7 @@ svg { fill: currentColor; }
 	}
 }
 // BUTTONS
-.btn  { @include btn(transparent,$dc); outline: 0; }
+.btn  { @include btn($dc,white); outline: 0; }
 .view {
 	color: $dc;
 	img {
@@ -140,7 +140,6 @@ svg { fill: currentColor; }
 	@include bp(s) {
 		width: 100%;
 		margin: 0;
-		padding: 40px;
 	}
 }
 .container {
@@ -161,7 +160,7 @@ svg { fill: currentColor; }
 		display: block;
 		margin-bottom: 40px;
 	}
-	.sixty, .fourty, .full {
+	.sixty, .fourty, .full, .content {
 		margin-bottom: 24px;
 	}
 	.sixty {
@@ -172,10 +171,15 @@ svg { fill: currentColor; }
 	}
 	.full {
 		flex: 0 0 100%;
+		@include bp(s) {
+			padding: 24px;
+		}
 	}
 	.content {
 		flex: 0 0 66%;
-		padding: 24px 0;
+		@include bp(s) {
+			padding: 24px;
+		}
 	}
 	.rh {
 		-webkit-box-ordinal-group:1;
@@ -186,6 +190,9 @@ svg { fill: currentColor; }
 	.va {
 		display: flex;
 		align-items: center;
+		@include bp(s) {
+			padding: 24px;
+		}
 	}
 	.ra {
 		text-align: right;
@@ -279,11 +286,6 @@ header.jkr-header {
 	}
 }
 // Background Component
-.bg-cmp {
-	h1,h2,h3,p {
-		color: $dc;
-	}
-}
 .setup {
 	display: flex;
 	align-items: flex-end;
@@ -299,6 +301,10 @@ header.jkr-header {
 .ftr-meta {
 	border-top: 1px solid #f4f4f4;
 	padding-top: 24px;
+	margin-top: 24px;
+	@include bp(s) {
+		padding: 24px;
+	}
 	.role {
 		@include bp(s) {
 			padding-top: 40px;

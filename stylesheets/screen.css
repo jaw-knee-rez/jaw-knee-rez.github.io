@@ -850,19 +850,19 @@ svg {
 
 .btn {
   display: inline-block;
-  background: transparent;
-  color: #272727;
+  background: #272727;
+  color: white;
   text-decoration: none;
-  padding: 10px 15px;
-  border: 1px solid #272727;
+  padding: 15px 25px;
+  border: 1px solid white;
   border-radius: 60px;
   margin: 4px 0;
   outline: 0; }
   .btn:hover {
-    background: transparent;
+    background: #131313;
     transition: all 0.3s ease; }
   .btn:active {
-    background: transparent; }
+    background: black; }
 
 .view {
   color: #272727; }
@@ -891,8 +891,7 @@ svg {
   @media (max-width: 600px) {
     .w-work {
       width: 100%;
-      margin: 0;
-      padding: 40px; } }
+      margin: 0; } }
 
 .container {
   display: -webkit-box;
@@ -912,7 +911,7 @@ svg {
     .container {
       display: block;
       margin-bottom: 40px; } }
-  .container .sixty, .container .fourty, .container .full {
+  .container .sixty, .container .fourty, .container .full, .container .content {
     margin-bottom: 24px; }
   .container .sixty {
     flex: 0 0 60%; }
@@ -920,9 +919,14 @@ svg {
     flex: 0 0 40%; }
   .container .full {
     flex: 0 0 100%; }
+    @media (max-width: 600px) {
+      .container .full {
+        padding: 24px; } }
   .container .content {
-    flex: 0 0 66%;
-    padding: 24px 0; }
+    flex: 0 0 66%; }
+    @media (max-width: 600px) {
+      .container .content {
+        padding: 24px; } }
   .container .rh {
     -webkit-box-ordinal-group: 1;
     -webkit-order: 1;
@@ -931,6 +935,9 @@ svg {
   .container .va {
     display: flex;
     align-items: center; }
+    @media (max-width: 600px) {
+      .container .va {
+        padding: 24px; } }
   .container .ra {
     text-align: right; }
   @media (max-width: 600px) {
@@ -1001,9 +1008,6 @@ header.jkr-header {
     .work h2 {
       margin-left: 40px; } }
 
-.bg-cmp h1, .bg-cmp h2, .bg-cmp h3, .bg-cmp p {
-  color: #272727; }
-
 .setup {
   display: flex;
   align-items: flex-end; }
@@ -1015,7 +1019,11 @@ header.jkr-header {
 
 .ftr-meta {
   border-top: 1px solid #f4f4f4;
-  padding-top: 24px; }
+  padding-top: 24px;
+  margin-top: 24px; }
+  @media (max-width: 600px) {
+    .ftr-meta {
+      padding: 24px; } }
   @media (max-width: 600px) {
     .ftr-meta .role {
       padding-top: 40px; } }
