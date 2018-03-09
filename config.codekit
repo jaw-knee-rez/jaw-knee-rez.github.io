@@ -47,15 +47,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/tiles\/_online-grocery.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/tiles\/_online-grocery.kit",
-		"outputAbbreviatedPath": "\/app\/tiles\/_online-grocery.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/app\/tiles\/_tile_community.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -92,12 +83,30 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/tiles\/_tile_online-grocery.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/tiles\/_tile_online-grocery.kit",
+		"outputAbbreviatedPath": "\/app\/tiles\/_tile_online-grocery.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/tiles\/_tile_project.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/tiles\/_tile_project.kit",
 		"outputAbbreviatedPath": "\/app\/tiles\/_tile_project.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/tiles\/_tile_sprint.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/tiles\/_tile_sprint.kit",
+		"outputAbbreviatedPath": "\/app\/tiles\/_tile_sprint.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -130,6 +139,17 @@
 		"initialSize": 237223,
 		"inputAbbreviatedPath": "\/images\/1mc-schedule.png",
 		"outputAbbreviatedPath": "\/images\/1mc-schedule.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1mc\/1mc-hero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223630,
+		"inputAbbreviatedPath": "\/images\/1mc\/1mc-hero.png",
+		"outputAbbreviatedPath": "\/images\/1mc\/1mc-hero.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -288,6 +308,116 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/loyal\/v2\/levels-achievements.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 368808,
+		"inputAbbreviatedPath": "\/images\/loyal\/v2\/levels-achievements.png",
+		"outputAbbreviatedPath": "\/images\/loyal\/v2\/levels-achievements.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/loyal\/v2\/levels-activity.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231419,
+		"inputAbbreviatedPath": "\/images\/loyal\/v2\/levels-activity.png",
+		"outputAbbreviatedPath": "\/images\/loyal\/v2\/levels-activity.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/loyal\/v2\/levels-competition.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 234396,
+		"inputAbbreviatedPath": "\/images\/loyal\/v2\/levels-competition.png",
+		"outputAbbreviatedPath": "\/images\/loyal\/v2\/levels-competition.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/loyal\/v2\/levels-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160110,
+		"inputAbbreviatedPath": "\/images\/loyal\/v2\/levels-hero.jpg",
+		"outputAbbreviatedPath": "\/images\/loyal\/v2\/levels-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/loyal\/v2\/levels-hero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 494920,
+		"inputAbbreviatedPath": "\/images\/loyal\/v2\/levels-hero.png",
+		"outputAbbreviatedPath": "\/images\/loyal\/v2\/levels-hero.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/loyal\/v2\/levels-homescreen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 272127,
+		"inputAbbreviatedPath": "\/images\/loyal\/v2\/levels-homescreen.png",
+		"outputAbbreviatedPath": "\/images\/loyal\/v2\/levels-homescreen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/loyal\/v2\/levels-homescreenScroll.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 500151,
+		"inputAbbreviatedPath": "\/images\/loyal\/v2\/levels-homescreenScroll.png",
+		"outputAbbreviatedPath": "\/images\/loyal\/v2\/levels-homescreenScroll.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/loyal\/v2\/levels-leaderboard.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231243,
+		"inputAbbreviatedPath": "\/images\/loyal\/v2\/levels-leaderboard.png",
+		"outputAbbreviatedPath": "\/images\/loyal\/v2\/levels-leaderboard.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/loyal\/v2\/levels-rewards.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 288423,
+		"inputAbbreviatedPath": "\/images\/loyal\/v2\/levels-rewards.png",
+		"outputAbbreviatedPath": "\/images\/loyal\/v2\/levels-rewards.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/loyal\/v2\/levels-selfImprovement.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 415385,
+		"inputAbbreviatedPath": "\/images\/loyal\/v2\/levels-selfImprovement.png",
+		"outputAbbreviatedPath": "\/images\/loyal\/v2\/levels-selfImprovement.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/test.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -438,6 +568,17 @@
 		"initialSize": 905468,
 		"inputAbbreviatedPath": "\/images\/zmn\/zmn-4.png",
 		"outputAbbreviatedPath": "\/images\/zmn\/zmn-4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/zmn\/zmn-hero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.04653e+06,
+		"inputAbbreviatedPath": "\/images\/zmn\/zmn-hero.png",
+		"outputAbbreviatedPath": "\/images\/zmn\/zmn-hero.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

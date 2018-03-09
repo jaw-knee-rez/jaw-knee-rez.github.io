@@ -1,10 +1,10 @@
-@mixin btn($bg) {
+@mixin btn($bg,$txt) {
   display: inline-block;
   background: $bg;
-  color:white;
+  color:$txt;
 	text-decoration:none;
 	padding: 10px 15px;
-	border: 1px solid white;
+	border: 1px solid $txt;
 	border-radius:60px;
   margin: 4px 0;
   &:hover {
