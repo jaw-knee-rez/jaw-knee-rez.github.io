@@ -30,9 +30,8 @@ body { background: white; color: $dc; @include paragraph; font-size: 16px; font-
 
 // Type
 h1, h1 a { @include display; @include font-size(24); text-decoration: none; }
-h2, h3, h4 { @include displayBold; margin: 0; display: block;}
-h2, h3 { }
-h2, h2 a { line-height: 18px; @include font-size(14); font-weight: 700; text-decoration: none; }
+h2, h4 { @include displayBold; margin: 0; display: block;}
+h2, h2 a { line-height: 18px; @include font-size(14); @include displayBold; text-decoration: none; }
 h3, h3 a { @include font-size(18);line-height: 32px; text-decoration: none; color: $lc; }
 
 p { line-height: 1.6em; margin: 12px 0 12px; font-weight: 200; }
@@ -41,42 +40,8 @@ a { color: $dc; text-decoration: underline; font-weight: 300;
 	&:hover { }
 	&:focus { outline: 0; }
 }
-
+strong { @include displayBold; }
 input { outline: 0; }
-
-.tile-project {
-	width: 324px;
-	background: $dc;
-	box-shadow: 0 0 7px 6px rgba(0,0,0,0.12);
-	border-radius: 8px;
-	@include bp(s) {
-		width: 280px;
-	}
-	.hero {
-		width: 100%;
-		height: 150px;
-		background-size: cover;
-		border-radius: 8px 8px 0 0;
-		@include bp(s) {
-			height: 120px;
-		}
-	}
-	.meta {
-		margin-top: -40px;
-		padding: 24px;
-		h3 {
-			@include display;
-			display: inline-block;
-			background: white;
-			color: $dc;
-			padding: 4px 8px;
-			box-shadow: 0 0 4px 3px rgba(0,0,0,0.12);
-		}
-		.view, p {
-			color: white;
-		}
-	}
-}
 
 // Utility
 //.clearfix { @include clearfix; }
@@ -139,19 +104,17 @@ svg { fill: currentColor; }
 		padding: 24px 0;
 	}
 }
-// LAYOUT
+// // LAYOUT
 .w {
-	max-width: 860px;
-	margin-left: 160px;
+	max-width: 1000px;
 	@include bp(s) {
 		width: 100%;
 		margin: 0;
-		padding: 40px;
 	}
 }
 .w-work {
 	max-width: 1000px;
-	margin: 0 0 0 120px;
+	margin: 0 auto;
 	@include bp(s) {
 		width: 100%;
 		margin: 0;
@@ -291,9 +254,42 @@ header.jkr-header {
 		margin: 8px;
     flex: 0 0 auto;
 		&:first-child {
-			margin-left: 160px;
+			margin-left: 170px;
 			@include bp(s) {
 				margin-left: 40px;
+			}
+		}
+	}
+	.tile-project {
+		width: 324px;
+		background: $dc;
+		box-shadow: 0 0 7px 6px rgba(0,0,0,0.12);
+		border-radius: 8px;
+		@include bp(s) {
+			width: 280px;
+		}
+		.hero {
+			width: 100%;
+			height: 150px;
+			background-size: cover;
+			border-radius: 8px 8px 0 0;
+			@include bp(s) {
+				height: 120px;
+			}
+		}
+		.meta {
+			margin-top: -40px;
+			padding: 24px;
+			h3 {
+				@include displayBold;
+				display: inline-block;
+				background: white;
+				color: $dc;
+				padding: 4px 8px;
+				box-shadow: 0 0 4px 3px rgba(0,0,0,0.12);
+			}
+			.view, p {
+				color: white;
 			}
 		}
 	}

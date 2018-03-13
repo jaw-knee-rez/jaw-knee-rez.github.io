@@ -702,7 +702,7 @@ h1, h1 a {
   font-size: 2.4rem;
   text-decoration: none; }
 
-h2, h3, h4 {
+h2, h4 {
   font-family: 'proxima_nova_rgbold', sans-serif;
   margin: 0;
   display: block; }
@@ -711,7 +711,7 @@ h2, h2 a {
   line-height: 18px;
   font-size: 14px;
   font-size: 1.4rem;
-  font-weight: 700;
+  font-family: 'proxima_nova_rgbold', sans-serif;
   text-decoration: none; }
 
 h3, h3 a {
@@ -733,37 +733,11 @@ a {
   a:focus {
     outline: 0; }
 
+strong {
+  font-family: 'proxima_nova_rgbold', sans-serif; }
+
 input {
   outline: 0; }
-
-.tile-project {
-  width: 324px;
-  background: #272727;
-  box-shadow: 0 0 7px 6px rgba(0, 0, 0, 0.12);
-  border-radius: 8px; }
-  @media (max-width: 600px) {
-    .tile-project {
-      width: 280px; } }
-  .tile-project .hero {
-    width: 100%;
-    height: 150px;
-    background-size: cover;
-    border-radius: 8px 8px 0 0; }
-    @media (max-width: 600px) {
-      .tile-project .hero {
-        height: 120px; } }
-  .tile-project .meta {
-    margin-top: -40px;
-    padding: 24px; }
-    .tile-project .meta h3 {
-      font-family: 'proxima_novalight', sans-serif;
-      display: inline-block;
-      background: white;
-      color: #272727;
-      padding: 4px 8px;
-      box-shadow: 0 0 4px 3px rgba(0, 0, 0, 0.12); }
-    .tile-project .meta .view, .tile-project .meta p {
-      color: white; }
 
 .clear {
   clear: both; }
@@ -888,17 +862,15 @@ svg {
     padding: 24px 0; } }
 
 .w {
-  max-width: 860px;
-  margin-left: 160px; }
+  max-width: 1000px; }
   @media (max-width: 600px) {
     .w {
       width: 100%;
-      margin: 0;
-      padding: 40px; } }
+      margin: 0; } }
 
 .w-work {
   max-width: 1000px;
-  margin: 0 0 0 120px; }
+  margin: 0 auto; }
   @media (max-width: 600px) {
     .w-work {
       width: 100%;
@@ -1013,10 +985,38 @@ header.jkr-header {
     margin: 8px;
     flex: 0 0 auto; }
     .content-scroll .tile:first-child {
-      margin-left: 160px; }
+      margin-left: 170px; }
       @media (max-width: 600px) {
         .content-scroll .tile:first-child {
           margin-left: 40px; } }
+  .content-scroll .tile-project {
+    width: 324px;
+    background: #272727;
+    box-shadow: 0 0 7px 6px rgba(0, 0, 0, 0.12);
+    border-radius: 8px; }
+    @media (max-width: 600px) {
+      .content-scroll .tile-project {
+        width: 280px; } }
+    .content-scroll .tile-project .hero {
+      width: 100%;
+      height: 150px;
+      background-size: cover;
+      border-radius: 8px 8px 0 0; }
+      @media (max-width: 600px) {
+        .content-scroll .tile-project .hero {
+          height: 120px; } }
+    .content-scroll .tile-project .meta {
+      margin-top: -40px;
+      padding: 24px; }
+      .content-scroll .tile-project .meta h3 {
+        font-family: 'proxima_nova_rgbold', sans-serif;
+        display: inline-block;
+        background: white;
+        color: #272727;
+        padding: 4px 8px;
+        box-shadow: 0 0 4px 3px rgba(0, 0, 0, 0.12); }
+      .content-scroll .tile-project .meta .view, .content-scroll .tile-project .meta p {
+        color: white; }
 
 .work h2 {
   margin-left: 160px; }
