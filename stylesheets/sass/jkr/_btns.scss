@@ -3,15 +3,16 @@
   background: $bg;
   color:$txt;
 	text-decoration:none;
-	padding: 15px 25px;
+	padding: 10px 20px;
 	border: 1px solid $txt;
 	border-radius:60px;
   margin: 4px 0;
   &:hover {
-    background:darken($bg,8%);
+    box-shadow: 0px 0px 1px 2px lighten($txt,66%);
+    border-color: $bg;
     transition: all 0.3s ease;
   }
   &:active {
-    background:darken($bg,25%);
+    
   }
 }

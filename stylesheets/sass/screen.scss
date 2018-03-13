@@ -29,7 +29,7 @@ body { background: white; color: $dc; @include paragraph; font-size: 16px; font-
 // background-image: linear-gradient(-135deg, #26333D 0%, #131B21 100%);
 
 // Type
-h1, h1 a { @include display; @include font-size(32); text-decoration: none; }
+h1, h1 a { @include display; @include font-size(24); text-decoration: none; }
 h2, h3, h4 { @include displayBold; margin: 0; display: block;}
 h2, h3 { }
 h2, h2 a { line-height: 18px; @include font-size(14); font-weight: 700; text-decoration: none; }
@@ -37,7 +37,7 @@ h3, h3 a { @include font-size(18);line-height: 32px; text-decoration: none; colo
 
 p { line-height: 1.6em; margin: 12px 0 12px; font-weight: 200; }
 
-a { color: white; text-decoration: none; font-weight: 300;
+a { color: $dc; text-decoration: underline; font-weight: 300;
 	&:hover { }
 	&:focus { outline: 0; }
 }
@@ -72,7 +72,7 @@ input { outline: 0; }
 			padding: 4px 8px;
 			box-shadow: 0 0 4px 3px rgba(0,0,0,0.12);
 		}
-		.view {
+		.view, p {
 			color: white;
 		}
 	}
@@ -109,7 +109,7 @@ svg { fill: currentColor; }
 	}
 }
 // BUTTONS
-.btn  { @include btn($dc,white); outline: 0; }
+.btn  { @include btn(white,$dc); outline: 0; }
 .view {
 	color: $dc;
 	img {
@@ -160,7 +160,7 @@ svg { fill: currentColor; }
 		display: block;
 		margin-bottom: 40px;
 	}
-	.sixty, .fourty, .full, .content {
+	.sixty, .fourty, .full, .content, .thirtythree {
 		margin-bottom: 24px;
 	}
 	.sixty {
@@ -168,6 +168,12 @@ svg { fill: currentColor; }
 	}
 	.fourty {
 		flex: 0 0 40%;
+	}
+	.thirtythree{
+		flex: 0 0 33.333%;
+		@include bp(s) {
+			padding: 24px;
+		}
 	}
 	.full {
 		flex: 0 0 100%;
@@ -294,6 +300,21 @@ header.jkr-header {
 		padding: 24px;
 		h2, p {
 			color: white;
+		}
+	}
+}
+// HOME
+.intro {
+	padding-bottom: 40px;
+}
+.about {
+	ol {
+		margin: 0 0 0 24px;
+		list-style: disc;
+		li {
+			padding: 5px 5px 5px 0;
+			@include font-size(12);
+			line-height: 16px;
 		}
 	}
 }

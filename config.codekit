@@ -209,6 +209,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/dt_process.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 278042,
+		"inputAbbreviatedPath": "\/images\/dt_process.png",
+		"outputAbbreviatedPath": "\/images\/dt_process.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/dt_process1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251924,
+		"inputAbbreviatedPath": "\/images\/dt_process1.png",
+		"outputAbbreviatedPath": "\/images\/dt_process1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/dt_process2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11724,
+		"inputAbbreviatedPath": "\/images\/dt_process2.png",
+		"outputAbbreviatedPath": "\/images\/dt_process2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/dt_process3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8005,
+		"inputAbbreviatedPath": "\/images\/dt_process3.png",
+		"outputAbbreviatedPath": "\/images\/dt_process3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/dt_process4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7857,
+		"inputAbbreviatedPath": "\/images\/dt_process4.png",
+		"outputAbbreviatedPath": "\/images\/dt_process4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/favicon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -480,6 +535,17 @@
 		"initialSize": 414657,
 		"inputAbbreviatedPath": "\/images\/tile_loyalty.png",
 		"outputAbbreviatedPath": "\/images\/tile_loyalty.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/xd-process.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 256314,
+		"inputAbbreviatedPath": "\/images\/xd-process.png",
+		"outputAbbreviatedPath": "\/images\/xd-process.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -814,6 +880,24 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/process\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/process\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/process\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/process\/index.kit",
+		"outputAbbreviatedPath": "\/process\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/prototypes\/loyalty\/assets\/Activity Change@2x.png": {
 		"fileType": 32768,
