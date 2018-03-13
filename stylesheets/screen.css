@@ -790,6 +790,18 @@ svg {
 .rightAlign {
   padding: 1.5em; }
 
+.v-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; }
+  .v-container .v {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+
 .form .field-group {
   width: 100%;
   margin: 0 0 10px;
