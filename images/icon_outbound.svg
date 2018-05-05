@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="83px" viewBox="0 0 83 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="build.1.6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-24.000000, -28.000000)" fill="#FFFFFF">
+            <g id="Group" transform="translate(24.000000, 28.000000)">
+                <polygon id="Path" points="6 12 43.1848958 12 43.1848958 6 0 6 0 83 77 83 77 42.8932292 71 42.8932292 71 77 6 77"></polygon>
+                <path d="M72.9097031,6.5078125 L60.4283854,6.5078125 L60.4283854,0.5078125 L82.6537679,0.5078125 L82.6537679,22.5601748 L76.6537679,22.5601748 L76.6537679,11.249029 L29.6122058,58.2905912 L25.3695651,54.0479505 L72.9097031,6.5078125 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

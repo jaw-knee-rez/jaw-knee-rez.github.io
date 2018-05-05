@@ -473,6 +473,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/sprint\/s-sales-cart.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 283302,
+		"inputAbbreviatedPath": "\/images\/sprint\/s-sales-cart.jpg",
+		"outputAbbreviatedPath": "\/images\/sprint\/s-sales-cart.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/s-sales-checkout1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205864,
+		"inputAbbreviatedPath": "\/images\/sprint\/s-sales-checkout1.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/s-sales-checkout1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/s-sales-checkout2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212237,
+		"inputAbbreviatedPath": "\/images\/sprint\/s-sales-checkout2.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/s-sales-checkout2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/s-sales-checkout4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 241584,
+		"inputAbbreviatedPath": "\/images\/sprint\/s-sales-checkout4.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/s-sales-checkout4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/s-sales-checkout5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 202576,
+		"inputAbbreviatedPath": "\/images\/sprint\/s-sales-checkout5.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/s-sales-checkout5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/s-sales-home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 855298,
+		"inputAbbreviatedPath": "\/images\/sprint\/s-sales-home.jpg",
+		"outputAbbreviatedPath": "\/images\/sprint\/s-sales-home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/s-sales-shop.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 799409,
+		"inputAbbreviatedPath": "\/images\/sprint\/s-sales-shop.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/s-sales-shop.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/test.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -535,6 +612,17 @@
 		"initialSize": 414657,
 		"inputAbbreviatedPath": "\/images\/tile_loyalty.png",
 		"outputAbbreviatedPath": "\/images\/tile_loyalty.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/tile_sprint.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19349,
+		"inputAbbreviatedPath": "\/images\/tile_sprint.png",
+		"outputAbbreviatedPath": "\/images\/tile_sprint.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
