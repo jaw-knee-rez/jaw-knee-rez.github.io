@@ -550,6 +550,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/sprint\/sprint_0.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.77818e+06,
+		"inputAbbreviatedPath": "\/images\/sprint\/sprint_0.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/sprint_0.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/sprint_1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.32898e+06,
+		"inputAbbreviatedPath": "\/images\/sprint\/sprint_1.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/sprint_1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/sprint_2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 628442,
+		"inputAbbreviatedPath": "\/images\/sprint\/sprint_2.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/sprint_2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/sprint_3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.42843e+06,
+		"inputAbbreviatedPath": "\/images\/sprint\/sprint_3.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/sprint_3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/sprint_4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 609806,
+		"inputAbbreviatedPath": "\/images\/sprint\/sprint_4.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/sprint_4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/sprint_5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.21562e+06,
+		"inputAbbreviatedPath": "\/images\/sprint\/sprint_5.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/sprint_5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprint\/sprint_6.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 871907,
+		"inputAbbreviatedPath": "\/images\/sprint\/sprint_6.png",
+		"outputAbbreviatedPath": "\/images\/sprint\/sprint_6.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/test.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -7954,6 +8031,24 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/work\/online-grocery\/index.kit",
 		"outputAbbreviatedPath": "\/work\/online-grocery\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/sprint\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/sprint\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/sprint\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/sprint\/index.kit",
+		"outputAbbreviatedPath": "\/work\/sprint\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		}
