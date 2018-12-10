@@ -252,9 +252,20 @@
 		},
 	"/images/1mc-schedule.png": {
 		"ft": 32768,
-		"iS": 237223,
+		"iS": 207067,
 		"oA": 0,
 		"oAP": "/images/1mc-schedule.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/1mc-userflow.png": {
+		"ft": 32768,
+		"iS": 320333,
+		"oA": 0,
+		"oAP": "/images/1mc-userflow.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -281,6 +292,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/images/background-pattern.jpg": {
+		"ft": 16384,
+		"iS": 1411637,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/background-pattern.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/concierge-hdr1.png": {
