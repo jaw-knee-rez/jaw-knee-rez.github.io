@@ -263,8 +263,8 @@ header.jkr-header {
 	.tile-project {
 		width: 324px;
 		background: $dc;
-		box-shadow: 0 0 7px 6px rgba(0,0,0,0.12);
 		border-radius: 8px;
+		cursor: pointer;
 		@include bp(s) {
 			width: 280px;
 		}

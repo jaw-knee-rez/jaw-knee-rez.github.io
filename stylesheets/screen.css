@@ -1002,8 +1002,8 @@ header.jkr-header {
   .content-scroll .tile-project {
     width: 324px;
     background: #272727;
-    box-shadow: 0 0 7px 6px rgba(0, 0, 0, 0.12);
-    border-radius: 8px; }
+    border-radius: 8px;
+    cursor: pointer; }
     @media (max-width: 600px) {
       .content-scroll .tile-project {
         width: 280px; } }
