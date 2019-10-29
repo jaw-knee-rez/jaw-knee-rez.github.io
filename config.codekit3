@@ -7,11 +7,12 @@
 		"uuidString": "CE99686E-3328-4AB7-A02C-B5522516E242"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "31934",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/.gitignore",
 		"oF": 0
@@ -19,6 +20,7 @@
 	"/404.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/404.html",
 		"oF": 0
@@ -26,6 +28,7 @@
 	"/app/_mainNav.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/app/_mainNav.html",
 		"oF": 0
@@ -33,6 +36,7 @@
 	"/app/_sideNav.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/app/_sideNav.html",
 		"oF": 0
@@ -40,6 +44,7 @@
 	"/app/_siteColorController.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/app/_siteColorController.html",
 		"oF": 0
@@ -47,6 +52,7 @@
 	"/app/_svg.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/app/_svg.html",
 		"oF": 0
@@ -54,6 +60,7 @@
 	"/app/tiles/_tile_community.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/app/tiles/_tile_community.html",
 		"oF": 0
@@ -61,6 +68,7 @@
 	"/app/tiles/_tile_concierge.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/app/tiles/_tile_concierge.html",
 		"oF": 0
@@ -68,6 +76,7 @@
 	"/app/tiles/_tile_estimating.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/app/tiles/_tile_estimating.html",
 		"oF": 0
@@ -75,6 +84,7 @@
 	"/app/tiles/_tile_loyalty.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/app/tiles/_tile_loyalty.html",
 		"oF": 0
@@ -82,6 +92,7 @@
 	"/app/tiles/_tile_online-grocery.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/app/tiles/_tile_online-grocery.html",
 		"oF": 0
@@ -89,6 +100,7 @@
 	"/app/tiles/_tile_project.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/app/tiles/_tile_project.html",
 		"oF": 0
@@ -96,6 +108,7 @@
 	"/app/tiles/_tile_sprint.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/app/tiles/_tile_sprint.html",
 		"oF": 0
@@ -103,6 +116,7 @@
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/CNAME",
 		"oF": 0
@@ -110,6 +124,7 @@
 	"/fonts/proxima_nova-light-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova-light-webfont.eot",
 		"oF": 0
@@ -127,6 +142,7 @@
 	"/fonts/proxima_nova-light-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova-light-webfont.ttf",
 		"oF": 0
@@ -134,6 +150,7 @@
 	"/fonts/proxima_nova-light-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova-light-webfont.woff",
 		"oF": 0
@@ -141,6 +158,7 @@
 	"/fonts/proxima_nova-light-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova-light-webfont.woff2",
 		"oF": 0
@@ -148,6 +166,7 @@
 	"/fonts/proxima_nova_bold-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova_bold-webfont.eot",
 		"oF": 0
@@ -165,6 +184,7 @@
 	"/fonts/proxima_nova_bold-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova_bold-webfont.ttf",
 		"oF": 0
@@ -172,6 +192,7 @@
 	"/fonts/proxima_nova_bold-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova_bold-webfont.woff",
 		"oF": 0
@@ -179,6 +200,7 @@
 	"/fonts/proxima_nova_bold-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova_bold-webfont.woff2",
 		"oF": 0
@@ -186,6 +208,7 @@
 	"/fonts/proxima_nova_reg-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova_reg-webfont.eot",
 		"oF": 0
@@ -203,6 +226,7 @@
 	"/fonts/proxima_nova_reg-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova_reg-webfont.ttf",
 		"oF": 0
@@ -210,6 +234,7 @@
 	"/fonts/proxima_nova_reg-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova_reg-webfont.woff",
 		"oF": 0
@@ -217,6 +242,7 @@
 	"/fonts/proxima_nova_reg-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/proxima_nova_reg-webfont.woff2",
 		"oF": 0
@@ -224,6 +250,7 @@
 	"/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/humans.txt",
 		"oF": 0
@@ -341,6 +368,7 @@
 	"/images/concierge/uph-con-1.mp4": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/images/concierge/uph-con-1.mp4",
 		"oF": 0
@@ -348,6 +376,7 @@
 	"/images/concierge/uph-con-2.mp4": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/images/concierge/uph-con-2.mp4",
 		"oF": 0
@@ -355,6 +384,7 @@
 	"/images/concierge/uph-con-3.mp4": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/images/concierge/uph-con-3.mp4",
 		"oF": 0
@@ -362,6 +392,7 @@
 	"/images/concierge/uph-con-4.mp4": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/images/concierge/uph-con-4.mp4",
 		"oF": 0
@@ -719,6 +750,61 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/port/jkr-port1.jpg": {
+		"ft": 16384,
+		"iS": 464907,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/port/jkr-port1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/port/jkr-port2.jpg": {
+		"ft": 16384,
+		"iS": 1483187,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/port/jkr-port2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/port/jkr-port3.jpg": {
+		"ft": 16384,
+		"iS": 1310779,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/port/jkr-port3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/port/jkr-port4.jpg": {
+		"ft": 16384,
+		"iS": 724572,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/port/jkr-port4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/port/jkr-port5.jpg": {
+		"ft": 16384,
+		"iS": 742851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/port/jkr-port5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/sprint/s-sales-cart.jpg": {
 		"ft": 16384,
 		"iS": 283302,
@@ -928,6 +1014,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/tile_latest.png": {
+		"ft": 32768,
+		"iS": 175073,
+		"oA": 0,
+		"oAP": "/images/tile_latest.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/tile_loyalty.png": {
 		"ft": 32768,
 		"iS": 414657,
@@ -1063,6 +1160,7 @@
 	"/inc/_ftr.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/inc/_ftr.html",
 		"oF": 0
@@ -1070,6 +1168,7 @@
 	"/inc/_hdr.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/inc/_hdr.html",
 		"oF": 0
@@ -1077,6 +1176,7 @@
 	"/inc/_meta_ftr.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/inc/_meta_ftr.html",
 		"oF": 0
@@ -1084,6 +1184,7 @@
 	"/inc/_meta_hdr.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/inc/_meta_hdr.html",
 		"oF": 0
@@ -1091,6 +1192,7 @@
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/index.html",
 		"oF": 0
@@ -1098,11 +1200,13 @@
 	"/index.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/index.html",
 		"oF": 0
 		},
 	"/js/angular.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1115,11 +1219,13 @@
 	"/js/angular.min.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/js/angular.min.js.map",
 		"oF": 0
 		},
 	"/js/common.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1130,6 +1236,7 @@
 		"tS": 0
 		},
 	"/js/libs/classie.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1140,6 +1247,7 @@
 		"tS": 0
 		},
 	"/js/libs/jquery-1.10.2.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1150,6 +1258,7 @@
 		"tS": 0
 		},
 	"/js/libs/modernizr-2.6.3.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1160,6 +1269,7 @@
 		"tS": 0
 		},
 	"/js/libs/sidebarEffects.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1180,6 +1290,7 @@
 	"/js/slick/config.rb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/js/slick/config.rb",
 		"oF": 0
@@ -1187,6 +1298,7 @@
 	"/js/slick/fonts/slick.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/js/slick/fonts/slick.eot",
 		"oF": 0
@@ -1204,6 +1316,7 @@
 	"/js/slick/fonts/slick.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/js/slick/fonts/slick.ttf",
 		"oF": 0
@@ -1211,6 +1324,7 @@
 	"/js/slick/fonts/slick.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/js/slick/fonts/slick.woff",
 		"oF": 0
@@ -1230,7 +1344,6 @@
 		"bl": 0,
 		"eJ": 0,
 		"ft": 1,
-		"ie": 1,
 		"iI": 0,
 		"ma": 0,
 		"mS": 0,
@@ -1266,6 +1379,7 @@
 		"oS": 3
 		},
 	"/js/slick/slick.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1280,7 +1394,6 @@
 		"bl": 0,
 		"eJ": 0,
 		"ft": 1,
-		"ie": 1,
 		"iI": 0,
 		"ma": 0,
 		"mS": 0,
@@ -1293,6 +1406,7 @@
 		"sU": 0
 		},
 	"/js/slick/slick.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1318,13 +1432,158 @@
 	"/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/LICENSE",
+		"oF": 0
+		},
+	"/media/animations/card-scroll1.mov": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/animations/card-scroll1.mov",
+		"oF": 0
+		},
+	"/media/animations/card-scroll1.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/animations/card-scroll1.mp4",
+		"oF": 0
+		},
+	"/media/animations/card-scroll2.mov": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/animations/card-scroll2.mov",
+		"oF": 0
+		},
+	"/media/animations/card-scroll2.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/animations/card-scroll2.mp4",
+		"oF": 0
+		},
+	"/media/animations/card-scroll3.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/animations/card-scroll3.mp4",
+		"oF": 0
+		},
+	"/media/animations/loading-beam.mov": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/animations/loading-beam.mov",
+		"oF": 0
+		},
+	"/media/animations/paging-scroll1.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/animations/paging-scroll1.mp4",
+		"oF": 0
+		},
+	"/media/animations/record-player.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/animations/record-player.mp4",
+		"oF": 0
+		},
+	"/media/animations/tab-bar1.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/animations/tab-bar1.mp4",
+		"oF": 0
+		},
+	"/media/animations/wood-loader.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/animations/wood-loader.mp4",
+		"oF": 0
+		},
+	"/media/illustrations/cockatoos.png": {
+		"ft": 32768,
+		"iS": 353252,
+		"oA": 0,
+		"oAP": "/media/illustrations/cockatoos.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/media/illustrations/connect.png": {
+		"ft": 32768,
+		"iS": 247525,
+		"oA": 0,
+		"oAP": "/media/illustrations/connect.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/media/illustrations/lion.png": {
+		"ft": 32768,
+		"iS": 244286,
+		"oA": 0,
+		"oAP": "/media/illustrations/lion.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/media/illustrations/ood-dead_dog.jpg": {
+		"ft": 16384,
+		"iS": 427419,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/illustrations/ood-dead_dog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/media/illustrations/ood-flowers.jpg": {
+		"ft": 16384,
+		"iS": 743442,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/illustrations/ood-flowers.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/media/jkr-resume-v.3.0.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/jkr-resume-v.3.0.pdf",
 		"oF": 0
 		},
 	"/process/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/process/index.html",
 		"oF": 0
@@ -1332,6 +1591,7 @@
 	"/process/index.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/process/index.html",
 		"oF": 0
@@ -1339,6 +1599,7 @@
 	"/prototypes/10475061.zip": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/10475061.zip",
 		"oF": 0
@@ -2959,6 +3220,7 @@
 	"/prototypes/loyalty/assets/fonts/open_sans/OpenSans-bold.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/loyalty/assets/fonts/open_sans/OpenSans-bold.woff",
 		"oF": 0
@@ -2966,6 +3228,7 @@
 	"/prototypes/loyalty/assets/fonts/open_sans/OpenSans-light.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/loyalty/assets/fonts/open_sans/OpenSans-light.woff",
 		"oF": 0
@@ -2973,6 +3236,7 @@
 	"/prototypes/loyalty/assets/fonts/open_sans/OpenSans-semibold.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/loyalty/assets/fonts/open_sans/OpenSans-semibold.woff",
 		"oF": 0
@@ -2980,6 +3244,7 @@
 	"/prototypes/loyalty/assets/fonts/open_sans/OpenSans.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/loyalty/assets/fonts/open_sans/OpenSans.woff",
 		"oF": 0
@@ -2996,6 +3261,7 @@
 		"q": 100
 		},
 	"/prototypes/loyalty/assets/html5shim/html5.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3016,6 +3282,7 @@
 		"oS": 3
 		},
 	"/prototypes/loyalty/assets/json2/json2.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3224,6 +3491,7 @@
 		"q": 100
 		},
 	"/prototypes/loyalty/assets/react/es5-sham.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3234,6 +3502,7 @@
 		"tS": 0
 		},
 	"/prototypes/loyalty/assets/react/es5-shim.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3299,6 +3568,7 @@
 		"q": 100
 		},
 	"/prototypes/loyalty/assets/scripts.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3740,6 +4010,7 @@
 	"/prototypes/loyalty/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/loyalty/index.html",
 		"oF": 0
@@ -3890,6 +4161,7 @@
 	"/prototypes/zoomin/p1/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/p1/index.html",
 		"oF": 0
@@ -3897,11 +4169,13 @@
 	"/prototypes/zoomin/p1/ipad.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/p1/ipad.html",
 		"oF": 0
 		},
 	"/prototypes/zoomin/p1/js/common.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3912,6 +4186,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/p1/js/libs/jquery-1.10.0.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3922,6 +4197,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/p1/js/libs/jquery.lettering-0.6.1.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3932,6 +4208,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/p1/js/libs/modernizr-2.6.2.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3942,6 +4219,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/p1/js/libs/responsive-tables.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3952,6 +4230,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/p1/js/libs/selectivizr-min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3962,6 +4241,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/p1/js/libs/waypoints.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3972,6 +4252,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/p1/js/plugins.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3984,6 +4265,7 @@
 	"/prototypes/zoomin/p1/p1.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/p1/p1.html",
 		"oF": 0
@@ -4986,6 +5268,7 @@
 	"/prototypes/zoomin/p1/v8.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/p1/v8.html",
 		"oF": 0
@@ -4993,6 +5276,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/070c41417a6a7f9ac924addd2d2a907b891e0758/_grid.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/070c41417a6a7f9ac924addd2d2a907b891e0758/_grid.scssc",
 		"oF": 0
@@ -5000,6 +5284,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/070c41417a6a7f9ac924addd2d2a907b891e0758/_visual-grid.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/070c41417a6a7f9ac924addd2d2a907b891e0758/_visual-grid.scssc",
 		"oF": 0
@@ -5007,6 +5292,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/09d33f443ba0fcb68687a1b72cbea1ff24bb31e3/_new-breakpoint.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/09d33f443ba0fcb68687a1b72cbea1ff24bb31e3/_new-breakpoint.scssc",
 		"oF": 0
@@ -5014,6 +5300,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/09d33f443ba0fcb68687a1b72cbea1ff24bb31e3/_private.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/09d33f443ba0fcb68687a1b72cbea1ff24bb31e3/_private.scssc",
 		"oF": 0
@@ -5021,6 +5308,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/09d33f443ba0fcb68687a1b72cbea1ff24bb31e3/_px-to-em.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/09d33f443ba0fcb68687a1b72cbea1ff24bb31e3/_px-to-em.scssc",
 		"oF": 0
@@ -5028,6 +5316,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_fonts.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_fonts.scssc",
 		"oF": 0
@@ -5035,6 +5324,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_forms.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_forms.scssc",
 		"oF": 0
@@ -5042,6 +5332,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_hacks.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_hacks.scssc",
 		"oF": 0
@@ -5049,6 +5340,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_overlay.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_overlay.scssc",
 		"oF": 0
@@ -5056,6 +5348,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_resets.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_resets.scssc",
 		"oF": 0
@@ -5063,6 +5356,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_select.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_select.scssc",
 		"oF": 0
@@ -5070,6 +5364,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_support.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_support.scssc",
 		"oF": 0
@@ -5077,6 +5372,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_tables.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_tables.scssc",
 		"oF": 0
@@ -5084,6 +5380,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_tabs.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_tabs.scssc",
 		"oF": 0
@@ -5091,6 +5388,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_tooltip.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/17a6608bf8d9fb68a29449d42f1452fc5a50082d/_tooltip.scssc",
 		"oF": 0
@@ -5098,6 +5396,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/1fa24cfbbc5def29d5ac207548437c1e884cbae9/_reset.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/1fa24cfbbc5def29d5ac207548437c1e884cbae9/_reset.scssc",
 		"oF": 0
@@ -5105,6 +5404,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/1fa24cfbbc5def29d5ac207548437c1e884cbae9/zoomin-splash.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/1fa24cfbbc5def29d5ac207548437c1e884cbae9/zoomin-splash.scssc",
 		"oF": 0
@@ -5112,6 +5412,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_deprecated-webkit-gradient.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_deprecated-webkit-gradient.scssc",
 		"oF": 0
@@ -5119,6 +5420,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_gradient-positions-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_gradient-positions-parser.scssc",
 		"oF": 0
@@ -5126,6 +5428,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_linear-positions-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_linear-positions-parser.scssc",
 		"oF": 0
@@ -5133,6 +5436,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_radial-arg-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_radial-arg-parser.scssc",
 		"oF": 0
@@ -5140,6 +5444,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_radial-positions-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_radial-positions-parser.scssc",
 		"oF": 0
@@ -5147,6 +5452,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_render-gradients.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_render-gradients.scssc",
 		"oF": 0
@@ -5154,6 +5460,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_shape-size-stripper.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/2b734d2563f321a07a42f006361352fbfa87982e/_shape-size-stripper.scssc",
 		"oF": 0
@@ -5161,6 +5468,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_bcg.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_bcg.scssc",
 		"oF": 0
@@ -5168,6 +5476,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_button.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_button.scssc",
 		"oF": 0
@@ -5175,6 +5484,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_clearfix.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_clearfix.scssc",
 		"oF": 0
@@ -5182,6 +5492,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_font-family.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_font-family.scssc",
 		"oF": 0
@@ -5189,6 +5500,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_hide-text.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_hide-text.scssc",
 		"oF": 0
@@ -5196,6 +5508,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_html5-input-types.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_html5-input-types.scssc",
 		"oF": 0
@@ -5203,6 +5516,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_position.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_position.scssc",
 		"oF": 0
@@ -5210,6 +5524,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_prefixer.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_prefixer.scssc",
 		"oF": 0
@@ -5217,6 +5532,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_retina-image.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_retina-image.scssc",
 		"oF": 0
@@ -5224,6 +5540,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_size.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_size.scssc",
 		"oF": 0
@@ -5231,6 +5548,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_timing-functions.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_timing-functions.scssc",
 		"oF": 0
@@ -5238,6 +5556,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_triangle.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/345459ffdfd7e8c83543876eebbab54c545ba486/_triangle.scssc",
 		"oF": 0
@@ -5245,6 +5564,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_fill-parent.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_fill-parent.scssc",
 		"oF": 0
@@ -5252,6 +5572,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_global-variables.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_global-variables.scssc",
 		"oF": 0
@@ -5259,6 +5580,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_grid.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_grid.scssc",
 		"oF": 0
@@ -5266,6 +5588,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_media.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_media.scssc",
 		"oF": 0
@@ -5273,6 +5596,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_omega.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_omega.scssc",
 		"oF": 0
@@ -5280,6 +5604,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_outer-container.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_outer-container.scssc",
 		"oF": 0
@@ -5287,6 +5612,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_pad.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_pad.scssc",
 		"oF": 0
@@ -5294,6 +5620,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_private.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_private.scssc",
 		"oF": 0
@@ -5301,6 +5628,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_reset.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_reset.scssc",
 		"oF": 0
@@ -5308,6 +5636,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_row.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_row.scssc",
 		"oF": 0
@@ -5315,6 +5644,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_shift.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_shift.scssc",
 		"oF": 0
@@ -5322,6 +5652,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_span-columns.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_span-columns.scssc",
 		"oF": 0
@@ -5329,6 +5660,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_to-deprecate.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_to-deprecate.scssc",
 		"oF": 0
@@ -5336,6 +5668,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_visual-grid.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/41aad30c2cc7720eb5c9d9e84e0c744bd88b2fe2/_visual-grid.scssc",
 		"oF": 0
@@ -5343,6 +5676,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/6572f36f7e209e72b3caafe6cd6f2f85a14a4666/_neat-helpers.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/6572f36f7e209e72b3caafe6cd6f2f85a14a4666/_neat-helpers.scssc",
 		"oF": 0
@@ -5350,6 +5684,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/6572f36f7e209e72b3caafe6cd6f2f85a14a4666/_neat.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/6572f36f7e209e72b3caafe6cd6f2f85a14a4666/_neat.scssc",
 		"oF": 0
@@ -5357,6 +5692,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_compact.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_compact.scssc",
 		"oF": 0
@@ -5364,6 +5700,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_flex-grid.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_flex-grid.scssc",
 		"oF": 0
@@ -5371,6 +5708,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_grid-width.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_grid-width.scssc",
 		"oF": 0
@@ -5378,6 +5716,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_linear-gradient.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_linear-gradient.scssc",
 		"oF": 0
@@ -5385,6 +5724,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_modular-scale.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_modular-scale.scssc",
 		"oF": 0
@@ -5392,6 +5732,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_px-to-em.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_px-to-em.scssc",
 		"oF": 0
@@ -5399,6 +5740,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_radial-gradient.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_radial-gradient.scssc",
 		"oF": 0
@@ -5406,6 +5748,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_tint-shade.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_tint-shade.scssc",
 		"oF": 0
@@ -5413,6 +5756,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_transition-property-name.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/aa512eb70f15be609e1407e1896dffafdae70002/_transition-property-name.scssc",
 		"oF": 0
@@ -5420,6 +5764,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/b67bc664a0b73a83098ad04c88c06d7cb9183d15/_neat-helpers.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/b67bc664a0b73a83098ad04c88c06d7cb9183d15/_neat-helpers.scssc",
 		"oF": 0
@@ -5427,6 +5772,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/b67bc664a0b73a83098ad04c88c06d7cb9183d15/_neat.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/b67bc664a0b73a83098ad04c88c06d7cb9183d15/_neat.scssc",
 		"oF": 0
@@ -5434,6 +5780,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/bd408a2ada17e9744d51b54a40f46132b1a2c9f7/_flex-grid.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/bd408a2ada17e9744d51b54a40f46132b1a2c9f7/_flex-grid.scssc",
 		"oF": 0
@@ -5441,6 +5788,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/bd408a2ada17e9744d51b54a40f46132b1a2c9f7/_modular-scale.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/bd408a2ada17e9744d51b54a40f46132b1a2c9f7/_modular-scale.scssc",
 		"oF": 0
@@ -5448,6 +5796,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/bd408a2ada17e9744d51b54a40f46132b1a2c9f7/_new-breakpoint.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/bd408a2ada17e9744d51b54a40f46132b1a2c9f7/_new-breakpoint.scssc",
 		"oF": 0
@@ -5455,6 +5804,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/bd408a2ada17e9744d51b54a40f46132b1a2c9f7/_private.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/bd408a2ada17e9744d51b54a40f46132b1a2c9f7/_private.scssc",
 		"oF": 0
@@ -5462,6 +5812,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/bd408a2ada17e9744d51b54a40f46132b1a2c9f7/_px-to-em.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/bd408a2ada17e9744d51b54a40f46132b1a2c9f7/_px-to-em.scssc",
 		"oF": 0
@@ -5469,6 +5820,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_fill-parent.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_fill-parent.scssc",
 		"oF": 0
@@ -5476,6 +5828,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_grid.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_grid.scssc",
 		"oF": 0
@@ -5483,6 +5836,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_media.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_media.scssc",
 		"oF": 0
@@ -5490,6 +5844,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_omega.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_omega.scssc",
 		"oF": 0
@@ -5497,6 +5852,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_outer-container.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_outer-container.scssc",
 		"oF": 0
@@ -5504,6 +5860,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_pad.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_pad.scssc",
 		"oF": 0
@@ -5511,6 +5868,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_private.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_private.scssc",
 		"oF": 0
@@ -5518,6 +5876,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_reset.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_reset.scssc",
 		"oF": 0
@@ -5525,6 +5884,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_row.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_row.scssc",
 		"oF": 0
@@ -5532,6 +5892,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_shift.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_shift.scssc",
 		"oF": 0
@@ -5539,6 +5900,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_span-columns.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_span-columns.scssc",
 		"oF": 0
@@ -5546,6 +5908,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_to-deprecate.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_to-deprecate.scssc",
 		"oF": 0
@@ -5553,6 +5916,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_visual-grid.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/c49cb79db608ce7604bb2a3033ab62f3051394f2/_visual-grid.scssc",
 		"oF": 0
@@ -5560,6 +5924,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_animation.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_animation.scssc",
 		"oF": 0
@@ -5567,6 +5932,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_appearance.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_appearance.scssc",
 		"oF": 0
@@ -5574,6 +5940,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_backface-visibility.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_backface-visibility.scssc",
 		"oF": 0
@@ -5581,6 +5948,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_background-image.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_background-image.scssc",
 		"oF": 0
@@ -5588,6 +5956,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_background.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_background.scssc",
 		"oF": 0
@@ -5595,6 +5964,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_border-image.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_border-image.scssc",
 		"oF": 0
@@ -5602,6 +5972,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_border-radius.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_border-radius.scssc",
 		"oF": 0
@@ -5609,6 +5980,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_box-sizing.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_box-sizing.scssc",
 		"oF": 0
@@ -5616,6 +5988,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_columns.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_columns.scssc",
 		"oF": 0
@@ -5623,6 +5996,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_flex-box.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_flex-box.scssc",
 		"oF": 0
@@ -5630,6 +6004,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_font-face.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_font-face.scssc",
 		"oF": 0
@@ -5637,6 +6012,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_hidpi-media-query.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_hidpi-media-query.scssc",
 		"oF": 0
@@ -5644,6 +6020,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_image-rendering.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_image-rendering.scssc",
 		"oF": 0
@@ -5651,6 +6028,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_inline-block.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_inline-block.scssc",
 		"oF": 0
@@ -5658,6 +6036,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_keyframes.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_keyframes.scssc",
 		"oF": 0
@@ -5665,6 +6044,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_linear-gradient.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_linear-gradient.scssc",
 		"oF": 0
@@ -5672,6 +6052,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_perspective.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_perspective.scssc",
 		"oF": 0
@@ -5679,6 +6060,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_placeholder.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_placeholder.scssc",
 		"oF": 0
@@ -5686,6 +6068,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_radial-gradient.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_radial-gradient.scssc",
 		"oF": 0
@@ -5693,6 +6076,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_transform.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_transform.scssc",
 		"oF": 0
@@ -5700,6 +6084,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_transition.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_transition.scssc",
 		"oF": 0
@@ -5707,6 +6092,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_user-select.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/cf903c92d045d3cd29f1d7f54c0b4ceb15a3a4db/_user-select.scssc",
 		"oF": 0
@@ -5714,6 +6100,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_border-radius.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_border-radius.scssc",
 		"oF": 0
@@ -5721,6 +6108,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_box-shadow.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_box-shadow.scssc",
 		"oF": 0
@@ -5728,6 +6116,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_box-sizing.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_box-sizing.scssc",
 		"oF": 0
@@ -5735,6 +6124,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_box.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_box.scssc",
 		"oF": 0
@@ -5742,6 +6132,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_images.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_images.scssc",
 		"oF": 0
@@ -5749,6 +6140,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_inline-block.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_inline-block.scssc",
 		"oF": 0
@@ -5756,6 +6148,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_opacity.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_opacity.scssc",
 		"oF": 0
@@ -5763,6 +6156,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_shared.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_shared.scssc",
 		"oF": 0
@@ -5770,6 +6164,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_text-shadow.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_text-shadow.scssc",
 		"oF": 0
@@ -5777,6 +6172,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_transition.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/d9fe87df844a8a6b778fcbf7c344ab89acfc09c1/_transition.scssc",
 		"oF": 0
@@ -5784,6 +6180,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/e14a661be79b966c115b875d0e9d813fde429422/_gin.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/e14a661be79b966c115b875d0e9d813fde429422/_gin.scssc",
 		"oF": 0
@@ -5791,6 +6188,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/e14a661be79b966c115b875d0e9d813fde429422/_mixers.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/e14a661be79b966c115b875d0e9d813fde429422/_mixers.scssc",
 		"oF": 0
@@ -5798,6 +6196,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/e17dc921df03a9d99d8b660af95dac114fab309b/_grid.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/e17dc921df03a9d99d8b660af95dac114fab309b/_grid.scssc",
 		"oF": 0
@@ -5805,6 +6204,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/e17dc921df03a9d99d8b660af95dac114fab309b/_visual-grid.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/e17dc921df03a9d99d8b660af95dac114fab309b/_visual-grid.scssc",
 		"oF": 0
@@ -5812,6 +6212,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/ef0db5cc0b3023b6445b46bf439e2395c2c66223/_bourbon-deprecated-upcoming.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/ef0db5cc0b3023b6445b46bf439e2395c2c66223/_bourbon-deprecated-upcoming.scssc",
 		"oF": 0
@@ -5819,6 +6220,7 @@
 	"/prototypes/zoomin/splash/_html/.sass-cache/ef0db5cc0b3023b6445b46bf439e2395c2c66223/_bourbon.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/prototypes/zoomin/splash/_html/.sass-cache/ef0db5cc0b3023b6445b46bf439e2395c2c66223/_bourbon.scssc",
 		"oF": 0
@@ -5969,11 +6371,13 @@
 	"/prototypes/zoomin/splash/_html/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/splash/_html/index.html",
 		"oF": 0
 		},
 	"/prototypes/zoomin/splash/_html/js/common.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5984,6 +6388,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/splash/_html/js/libs/jquery-1.10.0.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5994,6 +6399,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/splash/_html/js/libs/jquery.lettering-0.6.1.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6004,6 +6410,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/splash/_html/js/libs/modernizr-2.6.2.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6014,6 +6421,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/splash/_html/js/libs/responsive-tables.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6024,6 +6432,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/splash/_html/js/libs/selectivizr-min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6034,6 +6443,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/splash/_html/js/libs/waypoints.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6044,6 +6454,7 @@
 		"tS": 0
 		},
 	"/prototypes/zoomin/splash/_html/js/plugins.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7028,6 +7439,7 @@
 	"/prototypes/zoomin/splash/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/splash/index.html",
 		"oF": 0
@@ -8030,6 +8442,7 @@
 	"/prototypes/zoomin/splash/v1.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/splash/v1.html",
 		"oF": 0
@@ -8037,6 +8450,7 @@
 	"/prototypes/zoomin/splash/v2.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/splash/v2.html",
 		"oF": 0
@@ -8044,6 +8458,7 @@
 	"/prototypes/zoomin/splash/v3.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/splash/v3.html",
 		"oF": 0
@@ -8051,6 +8466,7 @@
 	"/prototypes/zoomin/splash/v4.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/splash/v4.html",
 		"oF": 0
@@ -8058,6 +8474,7 @@
 	"/prototypes/zoomin/splash/v5.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/splash/v5.html",
 		"oF": 0
@@ -8065,6 +8482,7 @@
 	"/prototypes/zoomin/splash/v6.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/splash/v6.html",
 		"oF": 0
@@ -8072,6 +8490,7 @@
 	"/prototypes/zoomin/splash/v7.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/prototypes/zoomin/splash/v7.html",
 		"oF": 0
@@ -8161,6 +8580,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/README.html",
 		"oF": 0,
@@ -8174,6 +8594,7 @@
 	"/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/robots.txt",
 		"oF": 0
@@ -8181,6 +8602,7 @@
 	"/stylesheets/sass/.sass-cache/75f32ea4b95b24927d1c11d5a11afa766d78193d/screen.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/stylesheets/sass/.sass-cache/75f32ea4b95b24927d1c11d5a11afa766d78193d/screen.scssc",
 		"oF": 0
@@ -8188,6 +8610,7 @@
 	"/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_btns.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_btns.scssc",
 		"oF": 0
@@ -8195,6 +8618,7 @@
 	"/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_fonts.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_fonts.scssc",
 		"oF": 0
@@ -8202,6 +8626,7 @@
 	"/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_icons.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_icons.scssc",
 		"oF": 0
@@ -8209,6 +8634,7 @@
 	"/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_jkr.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_jkr.scssc",
 		"oF": 0
@@ -8216,6 +8642,7 @@
 	"/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_layout.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_layout.scssc",
 		"oF": 0
@@ -8223,6 +8650,7 @@
 	"/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_mixins.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_mixins.scssc",
 		"oF": 0
@@ -8230,6 +8658,7 @@
 	"/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_mqs.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_mqs.scssc",
 		"oF": 0
@@ -8237,6 +8666,7 @@
 	"/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_overlay.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_overlay.scssc",
 		"oF": 0
@@ -8244,6 +8674,7 @@
 	"/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_reset.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_reset.scssc",
 		"oF": 0
@@ -8251,6 +8682,7 @@
 	"/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_select.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/stylesheets/sass/.sass-cache/e610715f73fca57018becf15677cb41c8b67c061/_select.scssc",
 		"oF": 0
@@ -8437,6 +8869,7 @@
 	"/work/fan-concierge/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/fan-concierge/index.html",
 		"oF": 0
@@ -8444,13 +8877,31 @@
 	"/work/fan-concierge/index.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/fan-concierge/index.html",
+		"oF": 0
+		},
+	"/work/latest/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/work/latest/index.html",
+		"oF": 0
+		},
+	"/work/latest/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/work/latest/index.html",
 		"oF": 0
 		},
 	"/work/loyalty/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/loyalty/index.html",
 		"oF": 0
@@ -8458,6 +8909,7 @@
 	"/work/loyalty/index.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/loyalty/index.html",
 		"oF": 0
@@ -8465,6 +8917,7 @@
 	"/work/one-million-cups/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/one-million-cups/index.html",
 		"oF": 0
@@ -8472,6 +8925,7 @@
 	"/work/one-million-cups/index.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/one-million-cups/index.html",
 		"oF": 0
@@ -8479,6 +8933,7 @@
 	"/work/online-grocery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/online-grocery/index.html",
 		"oF": 0
@@ -8486,6 +8941,7 @@
 	"/work/online-grocery/index.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/online-grocery/index.html",
 		"oF": 0
@@ -8493,6 +8949,7 @@
 	"/work/sprint/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/sprint/index.html",
 		"oF": 0
@@ -8500,6 +8957,7 @@
 	"/work/sprint/index.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/sprint/index.html",
 		"oF": 0
@@ -8518,6 +8976,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -8529,6 +8988,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -8599,6 +9059,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -8620,6 +9086,36 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
+			"active": 0
+			},
 		"modules-amd": {
 			"active": 0
 			},
@@ -8630,6 +9126,9 @@
 			"active": 0
 			},
 		"modules-umd": {
+			"active": 0
+			},
+		"named-capturing-groups-regex": {
 			"active": 0
 			},
 		"new-target": {
@@ -8665,7 +9164,13 @@
 		"parameters": {
 			"active": 0
 			},
+		"partial-application": {
+			"active": 0
+			},
 		"pipeline-operator": {
+			"active": 0
+			},
+		"private-methods": {
 			"active": 0
 			},
 		"property-literals": {
@@ -8701,10 +9206,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -8748,11 +9259,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -8897,6 +9407,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -8998,6 +9509,10 @@
 			"optionString": "'all'"
 			},
 		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"default-param-last": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -9349,6 +9864,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-import-assign": {
+			"active": 1,
+			"optionString": ""
+			},
 		"no-inline-comments": {
 			"active": 0,
 			"optionString": ""
@@ -9653,6 +10172,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 0,
 			"optionString": ""
@@ -9753,6 +10276,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -9764,6 +10291,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -10315,6 +10846,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -10336,6 +10868,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -10358,7 +10891,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -10370,7 +10904,6 @@
 		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -10397,6 +10930,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -10406,7 +10940,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -10427,7 +10962,8 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -10456,7 +10992,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -10499,8 +11036,16 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
@@ -10544,16 +11089,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -10565,14 +11114,14 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -10595,6 +11144,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -10620,10 +11173,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -10632,13 +11181,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -10650,6 +11199,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -10672,13 +11225,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -10687,10 +11240,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -10714,6 +11263,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -10748,6 +11301,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -10757,6 +11314,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -10784,15 +11345,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": ""
 	},
