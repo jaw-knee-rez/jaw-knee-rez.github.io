@@ -1205,6 +1205,22 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
+	"/jkr-resume-v.3.0.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/jkr-resume-v.3.0.pdf",
+		"oF": 0
+		},
+	"/jkr-resume-v.sketch": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/jkr-resume-v.sketch",
+		"oF": 0
+		},
 	"/js/angular.min.js": {
 		"bF": 0,
 		"ft": 64,
