@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19127",
+"creatorBuild": "19142",
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -110,6 +110,88 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/dazcam\/c\/base.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dazcam\/c\/base.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dazcam\/c\/screen.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dazcam\/c\/screen.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dazcam\/i\/dusk-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125419,
+		"inputAbbreviatedPath": "\/dazcam\/i\/dusk-bg.jpg",
+		"outputAbbreviatedPath": "\/dazcam\/i\/dusk-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dazcam\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dazcam\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dazcam\/s\/cycle.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dazcam\/s\/cycle.js",
+		"outputAbbreviatedPath": "\/dazcam\/s\/min\/cycle-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/dazcam\/s\/jeasing.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dazcam\/s\/jeasing.js",
+		"outputAbbreviatedPath": "\/dazcam\/s\/min\/jeasing-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/dazcam\/s\/magic.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dazcam\/s\/magic.js",
+		"outputAbbreviatedPath": "\/dazcam\/s\/min\/magic-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/dazcam\/s\/modernizr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dazcam\/s\/modernizr.js",
+		"outputAbbreviatedPath": "\/dazcam\/s\/min\/modernizr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/images\/1mc-application.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -143,6 +225,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/1mc-userflow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 320333,
+		"inputAbbreviatedPath": "\/images\/1mc-userflow.png",
+		"outputAbbreviatedPath": "\/images\/1mc-userflow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/1mc\/1mc-hero.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -161,6 +254,17 @@
 		"initialSize": 616749,
 		"inputAbbreviatedPath": "\/images\/1mc_dashboard_schedule.png",
 		"outputAbbreviatedPath": "\/images\/1mc_dashboard_schedule.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/background-pattern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.41109e+06,
+		"inputAbbreviatedPath": "\/images\/background-pattern.jpg",
+		"outputAbbreviatedPath": "\/images\/background-pattern.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -473,6 +577,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/port\/jkr-port1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 464907,
+		"inputAbbreviatedPath": "\/images\/port\/jkr-port1.jpg",
+		"outputAbbreviatedPath": "\/images\/port\/jkr-port1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/port\/jkr-port2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.48319e+06,
+		"inputAbbreviatedPath": "\/images\/port\/jkr-port2.jpg",
+		"outputAbbreviatedPath": "\/images\/port\/jkr-port2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/port\/jkr-port3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.31078e+06,
+		"inputAbbreviatedPath": "\/images\/port\/jkr-port3.jpg",
+		"outputAbbreviatedPath": "\/images\/port\/jkr-port3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/port\/jkr-port4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 724572,
+		"inputAbbreviatedPath": "\/images\/port\/jkr-port4.jpg",
+		"outputAbbreviatedPath": "\/images\/port\/jkr-port4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/port\/jkr-port5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 742851,
+		"inputAbbreviatedPath": "\/images\/port\/jkr-port5.jpg",
+		"outputAbbreviatedPath": "\/images\/port\/jkr-port5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/sprint\/s-sales-cart.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -678,6 +837,17 @@
 		"initialSize": 503132,
 		"inputAbbreviatedPath": "\/images\/tile_grocery.png",
 		"outputAbbreviatedPath": "\/images\/tile_grocery.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/tile_latest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85237,
+		"inputAbbreviatedPath": "\/images\/tile_latest.png",
+		"outputAbbreviatedPath": "\/images\/tile_latest.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1045,6 +1215,61 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/media\/illustrations\/cockatoos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 353252,
+		"inputAbbreviatedPath": "\/media\/illustrations\/cockatoos.png",
+		"outputAbbreviatedPath": "\/media\/illustrations\/cockatoos.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/media\/illustrations\/connect.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 247525,
+		"inputAbbreviatedPath": "\/media\/illustrations\/connect.png",
+		"outputAbbreviatedPath": "\/media\/illustrations\/connect.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/media\/illustrations\/lion.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 244286,
+		"inputAbbreviatedPath": "\/media\/illustrations\/lion.png",
+		"outputAbbreviatedPath": "\/media\/illustrations\/lion.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/media\/illustrations\/ood-dead_dog.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 427419,
+		"inputAbbreviatedPath": "\/media\/illustrations\/ood-dead_dog.jpg",
+		"outputAbbreviatedPath": "\/media\/illustrations\/ood-dead_dog.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/media\/illustrations\/ood-flowers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 743442,
+		"inputAbbreviatedPath": "\/media\/illustrations\/ood-flowers.jpg",
+		"outputAbbreviatedPath": "\/media\/illustrations\/ood-flowers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/process\/index.html": {
 		"fileType": 8192,
@@ -7977,6 +8202,24 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/work\/fan-concierge\/index.kit",
 		"outputAbbreviatedPath": "\/work\/fan-concierge\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/latest\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/latest\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/latest\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/latest\/index.kit",
+		"outputAbbreviatedPath": "\/work\/latest\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
