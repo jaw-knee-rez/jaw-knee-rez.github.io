@@ -877,7 +877,6 @@ svg {
     .w {
       width: 100%;
       margin: 0; } }
-
 .w-work {
   max-width: 1000px;
   margin: 0 auto; }
@@ -885,7 +884,6 @@ svg {
     .w-work {
       width: 100%;
       margin: 0; } }
-
 .container {
   display: -webkit-box;
   display: -webkit-flex;
@@ -944,7 +942,6 @@ svg {
       margin: 0; }
     .container .ra {
       text-align: left; } }
-
 .main {
   padding: 131px 0 60px 0; }
   @media (max-width: 600px) {
@@ -1033,7 +1030,6 @@ header.jkr-header {
   @media (max-width: 600px) {
     .work h2 {
       margin-left: 40px; } }
-
 .setup {
   display: flex;
   align-items: flex-end; }
@@ -1054,6 +1050,10 @@ header.jkr-header {
     font-size: 12px;
     font-size: 1.2rem;
     line-height: 16px; }
+
+.ftr p {
+  font-size: 10px;
+  font-size: 1rem; }
 
 .ftr-meta {
   border-top: 1px solid #f4f4f4;

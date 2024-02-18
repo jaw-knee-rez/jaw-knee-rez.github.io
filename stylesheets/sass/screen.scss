@@ -330,6 +330,11 @@ header.jkr-header {
 	}
 }
 // FOOTER
+.ftr {
+	p {
+		@include font-size(10);
+	}
+}
 .ftr-meta {
 	border-top: 1px solid #f4f4f4;
 	padding-top: 24px;
