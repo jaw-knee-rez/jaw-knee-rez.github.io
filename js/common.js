@@ -1,58 +1,37 @@
-// function getCookie(cname) {
-//     var name = cname + "=";
-//     var decodedCookie = decodeURIComponent(document.cookie);
-//     var ca = decodedCookie.split(';');
-//     for(var i = 0; i <ca.length; i++) {
-//         var c = ca[i];
-//         while (c.charAt(0) == ' ') {
-//             c = c.substring(1);
-//         }
-//         if (c.indexOf(name) == 0) {
-//             return c.substring(name.length, c.length);
-//         }
-//     }
-//     return "";
-// }
-// function checkCookie() {
-//     var theme = getCookie("theme");
-//     if (theme == "theme-day") {
-//         $('body').addClass('theme-day');
-//         document.getElementById("cb1").checked = true;
-//     } else {
-//         $('body').addClass('theme-night');
-//         document.getElementById("cb1").checked = false;
-//     }
-// }
-// checkCookie()
+const navbarMenu = document.getElementById("menu");
+const burgerMenu = document.getElementById("burger");
+const headerMenu = document.getElementById("header");
 
-// DOC READY
-$(function(){
-
-  // var iScrollPos = 0;
-  //
-  // $(window).scroll(function () {
-  //     var iCurScrollPos = $(this).scrollTop();
-  //     if (iCurScrollPos > iScrollPos) {
-  //         $('.jkr-header').fadeOut(500);
-  //     } else {
-  //         $('.jkr-header').fadeIn(500);
-  //     }
-  //     iScrollPos = iCurScrollPos;
-  // });
-
-  $('#cb1').on('click', function () {
-    if ( $('body').hasClass('theme-day') ) {
-      $('body').removeClass('theme-day');
-      document.cookie = "theme=theme-night;path=/";
-    } else {
-      $('body').addClass('theme-day');
-      document.cookie = "theme=theme-day;path=/";
-    }
-
+// Open Close Navbar Menu on Click Burger
+if (burgerMenu && navbarMenu) {
+   burgerMenu.addEventListener("click", () => {
+      burgerMenu.classList.toggle("is-active");
+      navbarMenu.classList.toggle("is-active");
    });
+}
 
-   $('#showXD').on('click', function () {
-     $('.xd').slideToggle();
+// Close Navbar Menu on Click Menu Links
+document.querySelectorAll(".menu-link").forEach((link) => {
+   link.addEventListener("click", () => {
+      burgerMenu.classList.remove("is-active");
+      navbarMenu.classList.remove("is-active");
    });
+});
 
+// Change Header Background on Scrolling
+window.addEventListener("scroll", () => {
+   if (this.scrollY >= 85) {
+      headerMenu.classList.add("on-scroll");
+   } else {
+      headerMenu.classList.remove("on-scroll");
+   }
+});
+
+// Fixed Navbar Menu on Window Resize
+window.addEventListener("resize", () => {
+   if (window.innerWidth > 768) {
+      if (navbarMenu.classList.contains("is-active")) {
+         navbarMenu.classList.remove("is-active");
+      }
+   }
 });

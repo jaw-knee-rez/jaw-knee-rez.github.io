@@ -711,6 +711,19 @@
       "ou" : "lpckwebp-none",
       "rq" : 75
     },
+    "\/images\/jkr-background.png" : {
+      "ft" : 32768,
+      "iS" : 32486,
+      "oA" : 0,
+      "oAP" : "\/images\/jkr-background.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/jkr-logo-light.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -1924,14 +1937,6 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
-    },
-    "\/media\/jkr-resume-v.3.0.pdf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/media\/jkr-resume-v.3.0.pdf",
-      "oF" : 0
     },
     "\/process\/index.html" : {
       "cB" : 0,
