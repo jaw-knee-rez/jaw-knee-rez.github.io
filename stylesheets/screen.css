@@ -489,7 +489,7 @@ html {
   font-size: 62.5%; }
 
 body {
-  background: url("/images/jkr-background.png") 100% 100% no-repeat fixed white;
+  background: white;
   color: #272727;
   font-family: 'proxima_nova_rgregular', sans-serif;
   font-weight: 300;
@@ -698,10 +698,12 @@ svg {
     .container {
       display: block;
       margin-bottom: 40px; } }
-  .container .sixty, .container .fourty, .container .full, .container .content, .container .thirtythree {
+  .container .sixty, .container .fourty, .container .full, .container .fifty, .container .content, .container .thirtythree {
     margin-bottom: 24px; }
   .container .sixty {
     flex: 0 0 60%; }
+  .container .fifty {
+    flex: 0 0 50%; }
   .container .fourty {
     flex: 0 0 40%; }
   .container .thirtythree {

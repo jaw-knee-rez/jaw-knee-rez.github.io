@@ -28,7 +28,7 @@ $grey: #9B9B9B;
 @import 'jkr/jkr';
 
 html { font-size: 62.5%; }
-body { background: url("/images/jkr-background.png") 100% 100% no-repeat fixed white; color: $dc; @include paragraph; font-size: 16px; font-size: 1.6rem; -webkit-backface-visibility: hidden; }
+body { background:  white; color: $dc; @include paragraph; font-size: 16px; font-size: 1.6rem; -webkit-backface-visibility: hidden; }
 
 // background-image: linear-gradient(-135deg, #26333D 0%, #131B21 100%);
 
@@ -145,12 +145,15 @@ svg { fill: currentColor; }
 		display: block;
 		margin-bottom: 40px;
 	}
-	.sixty, .fourty, .full, .content, .thirtythree {
+	.sixty, .fourty, .full, .fifty, .content, .thirtythree {
 		margin-bottom: 24px;
 	}
 	.sixty {
 	  flex: 0 0 60%;
 	}
+	.fifty {
+		flex: 0 0 50%;
+	  }
 	.fourty {
 		flex: 0 0 40%;
 	}
